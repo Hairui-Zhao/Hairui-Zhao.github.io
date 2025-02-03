@@ -17,16 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-李家辉，博士，吉林大学计算机科学与技术学院助理研究员，入选国家资助博士后研究人员计划 (C档) 和吉林大学“鼎新学者”支持计划。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获中国商业联合会科学技术奖二等奖、宝钢优秀学生奖（研究生）、吉林大学十佳研究生、中国一汽“红旗”奖学金、INFOCOM 2021 Student Conference Award、国家奖学金、王湘浩奖学金、吉林省普通高校省级优秀大学生、吉林大学优秀博士学位论文、吉林省优秀硕士学位论文、优秀研究生、优秀毕业生等多项奖励和荣誉称号。
+赵海睿，博士研究生，就读于于吉林大学计算机科学与技术学院，博士生导师为李洪亮副教授，2024年9月，受国家留学基金委资助赴加州大学河滨分校（Singapore University of Technology and Design）公派留学，合作导师为Zizhong Chen教授，并于吉林大学计算机科学与技术学院攻读硕士学位，硕士生导师为刘华虓副教授。曾获国家励志奖学金、正元奖学金、王湘浩奖学金、优秀研究生干部、优秀班级干部等多项奖励和荣誉称号。
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+我的研究兴趣主要包括分布式系统、高性能计算、资源管理、作业调度、云计算和大语言模型优化。
   
 
 
@@ -42,7 +35,6 @@ redirect_from:
 
 # 📝 论文专利
 
-### 英文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,6 +63,8 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 - Hongliang Li, `Hairui Zhao`, Ting Sun, Xiang Li, Haixiao Xu and Keqin Li. " Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. " Published on 2024 Elsevier Journal of Parallel and Distributed Computing  (非导师一作CCF B刊)
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
@@ -86,6 +80,19 @@ redirect_from:
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- 2017-2018学年国家励志奖学金
+- 2018-2019优秀班级干部
+- 2018年吉林大学夏令营优秀营员
+- 2021年软件与理论硕士研究生优秀团干部
+- 2020-2021学年研究生学业奖学金获奖
+- 2020年优秀研究生干部
+- 2021-2024学年博士研究生学业奖学金获奖
+- 2022-2023 年研究生优秀奖学金 （二等）
+- 2022-2023 年优秀研究生干部
+- 2022-2023 年王湘浩奖学金
+- 2023-2024年吉林大学正元奖学金
+- 2024-2026年2年中国国家留学基金委访问学者项目
+
 
 <span class='anchor' id='-xshy'></span>
 
@@ -97,6 +104,4 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2019.12 - 2020.1*, 中国科学院计算技术研究所，北京

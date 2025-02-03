@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "赵海睿"
+description              : "分布式神经网络"
+repository               : "hairui-zhao/hairui-zhao.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "赵海睿"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "吉林大学"
+  location         : "吉林 长春"
+  employer         : "计算机科学与技术学院"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bERytNsAAAAJ"
+  email            : "zhaohr21@mails.jlu.edu.cn"
+  researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "Hairui-Zhao"
   google_plus      :
   keybase          :
   instagram        :

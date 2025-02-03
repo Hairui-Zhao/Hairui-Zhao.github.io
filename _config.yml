@@ -9,7 +9,7 @@
 title                    : "赵海睿"
 description              : "分布式神经网络"
 repository               : "hairui-zhao/hairui-zhao.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

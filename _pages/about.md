@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-赵海睿，博士研究生，就读于于吉林大学计算机科学与技术学院，博士生导师为李洪亮副教授，2024年9月，受国家留学基金委资助赴加州大学河滨分校（Singapore University of Technology and Design）公派留学，合作导师为Zizhong Chen教授，并于吉林大学计算机科学与技术学院攻读硕士学位，硕士生导师为刘华虓副教授。曾获国家励志奖学金、正元奖学金、王湘浩奖学金、优秀研究生干部、优秀班级干部等多项奖励和荣誉称号。
+赵海睿，博士研究生，就读于吉林大学计算机科学与技术学院，博士生导师为李洪亮副教授，2024年9月，受国家留学基金委资助赴加州大学河滨分校（University of California, Riverside）公派留学，合作导师为Zizhong Chen教授，并于吉林大学计算机科学与技术学院攻读硕士学位，硕士生导师为刘华虓副教授。曾获国家励志奖学金、正元奖学金、王湘浩奖学金、优秀研究生干部、优秀班级干部等多项奖励和荣誉称号。
 
-我的研究兴趣主要包括分布式系统、高性能计算、资源管理、作业调度、云计算和大语言模型优化。
+研究兴趣主要包括：分布式系统、高性能计算、资源管理、作业调度、云计算和大语言模型优化。
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 2025.09*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州里佛赛德, 访问学者
-- *2021.09 - 2025.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构 
-- *2019.09 - 2021.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 硕士, 计算机软件与理论
-- *2015.09 - 2019.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 学士, 网络与信息安全
+- *2024.09 - 2025.09*, <a href="https://www.ucr.edu/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州, 访问学者
+- *2021.09 - 2025.12*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构 
+- *2019.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 硕士, 计算机软件与理论
+- *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 学士, 网络与信息安全
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -62,9 +62,6 @@ redirect_from:
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - Hongliang Li, `Hairui Zhao`, Ting Sun, Xiang Li, Haixiao Xu and Keqin Li. " Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. " Published on 2024 Elsevier Journal of Parallel and Distributed Computing  (非导师一作CCF B刊)
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)

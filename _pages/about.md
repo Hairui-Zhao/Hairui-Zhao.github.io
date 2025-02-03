@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+李家辉，博士，吉林大学计算机科学与技术学院助理研究员，入选国家资助博士后研究人员计划 (C档) 和吉林大学“鼎新学者”支持计划。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获中国商业联合会科学技术奖二等奖、宝钢优秀学生奖（研究生）、吉林大学十佳研究生、中国一汽“红旗”奖学金、INFOCOM 2021 Student Conference Award、国家奖学金、王湘浩奖学金、吉林省普通高校省级优秀大学生、吉林大学优秀博士学位论文、吉林省优秀硕士学位论文、优秀研究生、优秀毕业生等多项奖励和荣誉称号。
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：

@@ -36,7 +36,7 @@ redirect_from:
 # 📝 学术成果
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Hairui Zhao`, Hongliang Li, Qi Tian, Jie Wu, Meng Zhang, Xiang Li, and Haixiao Xu. " ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. " Accepted by 2025 IEEE International Conference on Computer Communications (CCF A会) 

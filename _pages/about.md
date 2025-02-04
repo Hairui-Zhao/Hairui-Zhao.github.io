@@ -33,7 +33,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文
+# 📝 学术成果
 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>

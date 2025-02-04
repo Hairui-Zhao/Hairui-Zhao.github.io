@@ -54,14 +54,10 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 -	Hongliang Li, `Hairui Zhao`, Zhewen Xu, Xiang Li, and Haixiao Xu. " ExplSched: Maximizing Deep Learning Cluster Efficiency for Exploratory Jobs. " Published on 2023 IEEE Conference on CLUSTER Computing (非导师一作CCF B会) 
 [[网页]](https://ieeexplore.ieee.org/document/10319954)
 
-</div>
-</div>
 
 - Hongliang Li, `Hairui Zhao`, Ting Sun, Xiang Li, Haixiao Xu and Keqin Li. " Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. " Published on 2024 Elsevier Journal of Parallel and Distributed Computing  (非导师一作CCF B刊)
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0743731523001466)

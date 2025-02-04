@@ -45,7 +45,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLPCC 2024</div><img src='images/NLPCC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLPCC 2024</div><img src='images/NLPCC.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Hairui Zhao*`, Xinyu Li*, Hongliang Li. " Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. " Published on 2024 CCF International Conference on Natural Language Processing and Chinese Computing (Best Paper Award, CCF C会) 

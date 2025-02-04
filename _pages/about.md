@@ -26,7 +26,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 2025.09*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr1.png" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州, 访问学者
+- *2024.09 - 2025.09*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州, 访问学者
 - *2021.09 - 2025.12*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构 
 - *2019.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 硕士, 计算机软件与理论
 - *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 学士, 网络与信息安全

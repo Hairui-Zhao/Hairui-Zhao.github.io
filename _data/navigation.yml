@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "简介"
-    url: "/hairui-zhao/#about-me"
+    url: "/#about-me"
 
   - title: "学历"
-    url: "/hairui-zhao/#-xl"
+    url: "/#-xl"
 
   - title: "论文专利"
     url: "/hairui-zhao/#-lwzl"

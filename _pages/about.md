@@ -28,7 +28,7 @@ redirect_from:
 # 🎓 研究经历
 - *2024.09 - 至今*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州, 访问学者
 - *2021.09 - 至今*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构
-- *2019.12 - 2020.2*, 中国科学院计算技术研究所，编译实验室，北京，实习生
+- *2019.12 - 2020.2*, <a href="http://www.ict.cas.cn/"><img class="png" src="/images/ICT.png" width="20pt"></a> 中国科学院计算技术研究所，编译实验室，北京，实习生
 - *2019.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 硕士, 计算机软件与理论
 - *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 学士, 网络与信息安全
 

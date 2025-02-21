@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-赵海睿，博士研究生，就读于吉林大学计算机科学与技术学院，博士生导师为[李洪亮](https://ccst.jlu.edu.cn/info/1028/20013.htm) 副教授，2024年9月，受国家留学基金委资助赴加州大学河滨分校（University of California, Riverside）公派留学，合作导师为Zizhong Chen教授，并于吉林大学计算机科学与技术学院攻读硕士学位，硕士生导师为刘华虓副教授。曾获国家励志奖学金、正元奖学金、王湘浩奖学金、优秀研究生干部、优秀班级干部等多项奖励和荣誉称号。
+赵海睿，博士研究生，就读于吉林大学计算机科学与技术学院，博士生导师为[李洪亮](https://ccst.jlu.edu.cn/info/1028/20013.htm)副教授，2024年9月，受国家留学基金委资助赴加州大学河滨分校（University of California, Riverside）公派留学，合作导师为[Zizhong Chen](https://www.cs.ucr.edu/~chen/)教授，并于吉林大学计算机科学与技术学院攻读硕士学位，硕士生导师为[刘华虓](https://teachers.jlu.edu.cn/LHX17/zh_CN/index/641487/list/index.htm)副教授。曾获国家励志奖学金、正元奖学金、王湘浩奖学金、优秀研究生干部、优秀班级干部等多项奖励和荣誉称号。
 
 研究兴趣主要包括：分布式系统、高性能计算、资源管理、作业调度、云计算和大语言模型优化。
   

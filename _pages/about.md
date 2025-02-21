@@ -39,7 +39,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Hairui Zhao`, Hongliang Li, Qi Tian, Jie Wu, Meng Zhang, Xiang Li, and Haixiao Xu. " ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. " Accepted by 2025 IEEE International Conference on Computer Communications (CCF A会) 
+-	`Hairui Zhao`, Hongliang Li, Qi Tian, Jie Wu, Meng Zhang, Xiang Li, and Haixiao Xu. " ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. " Accepted by 2025 IEEE International Conference on Computer Communications (**CCF A会**) 
 [[网页]](https://cis.temple.edu/~jiewu/research/publications/Publication_files/m48122-zhao%20final.pdf#:~:text=This%20paper%20introduces%20Job-Array%20Pipeline%20Parallelism%20%28JAP%29%20that,sibling%20DL%20training%20jobs%20into%20a%20concurrent%20job-array.) 
 
 </div>
@@ -48,22 +48,22 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NLPCC 2024</div><img src='images/NLPCC.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Hairui Zhao*`, Xinyu Li*, Hongliang Li. " Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. " Published on 2024 CCF International Conference on Natural Language Processing and Chinese Computing (Best Paper Award, CCF C会) 
+-	`Hairui Zhao*`, Xinyu Li*, Hongliang Li. " Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. " Published on 2024 CCF International Conference on Natural Language Processing and Chinese Computing (**Best Paper Award, 1/160, CCF C会**) 
 [[网页]](https://link.springer.com/chapter/10.1007/978-981-97-9440-9_34)
 
 </div>
 </div>
 
 
--	Hongliang Li, `Hairui Zhao`, Zhewen Xu, Xiang Li, and Haixiao Xu. " ExplSched: Maximizing Deep Learning Cluster Efficiency for Exploratory Jobs. " Published on 2023 IEEE Conference on CLUSTER Computing (非导师一作CCF B会) 
+-	Hongliang Li, `Hairui Zhao`, Zhewen Xu, Xiang Li, and Haixiao Xu. " ExplSched: Maximizing Deep Learning Cluster Efficiency for Exploratory Jobs. " Published on 2023 IEEE Conference on CLUSTER Computing (非导师一作, **CCF B会**) 
 [[网页]](https://ieeexplore.ieee.org/document/10319954)
 
 
-- Hongliang Li, `Hairui Zhao`, Ting Sun, Xiang Li, Haixiao Xu and Keqin Li. " Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. " Published on 2024 Elsevier Journal of Parallel and Distributed Computing  (非导师一作CCF B刊)
+- Hongliang Li, `Hairui Zhao`, Ting Sun, Xiang Li, Haixiao Xu and Keqin Li. " Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. " Published on 2024 Elsevier Journal of Parallel and Distributed Computing  (非导师一作, **CCF B刊**)
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0743731523001466)
 
 
-- Hongliang Li, Zichen Wang, `Hairui Zhao`, Meng Zhang, Xiang Li, Xiaohui Wei and Haixiao Xu. " Convergence-aware optimal checkpointing for exploratory deep learning training jobs. " Published on 2024 Elsevier Journal of Future Generation Computer Systems (CCF B刊, 中科院一区top) 
+- Hongliang Li, Zichen Wang, `Hairui Zhao`, Meng Zhang, Xiang Li, Xiaohui Wei and Haixiao Xu. " Convergence-aware optimal checkpointing for exploratory deep learning training jobs. " Published on 2024 Elsevier Journal of Future Generation Computer Systems (**CCF B刊, 中科院一区top**) 
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X24005612#:~:text=An%20approach%20to%20compute%20optimal%20check-pointing%20configuration%20for,a%20DL%20training%20job%2C%20minimizing%20the%20fault-tolerant%20overhead.) 
 
 

@@ -25,16 +25,17 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 研究经历
 - *2024.09 - 至今*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州, 访问学者
-- *2021.09 - 至今*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构 
+- *2021.09 - 至今*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构
+- *2019.12 - 2020.1*, 中国科学院计算技术研究所，实习生，北京
 - *2019.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 硕士, 计算机软件与理论
 - *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 学士, 网络与信息安全
 
 <span class='anchor' id='-xshy'></span>
 
 # 📰 新闻
-- 🎉*2025.02*, 我们的文章" Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update. "被 Future Generation Computing System (FGCS, **中科院一区 TOP**) 接收！！！这是与我合作的师弟，恭喜2023级硕士研究生田琦！
+- 🎉*2025.02*, 我们的文章" Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update. "被 Future Generation Computing System (FGCS, **中科院一区 TOP**) 接收！！！这是2023年4月开始与我合作的师弟的文章，恭喜2023级硕士研究生田琦！
 - 🎉*2024.12*, 我们的文章" ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. "被 2025 IEEE International Conference on Computer Communications (**CCF A会**) 接收！！！
 - 🎉*2024.11*, 因 NLPCC 2024 最佳论文奖，接受西湖大学人工智能学院采访！！！[[网页]](https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml)
 - 🎉*2024.11*, 我们的文章" Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. "在 2024 CCF International Conference on Natural Language Processing and Chinese Computing (**CCF C会**) 获得**最佳论文奖, 1/160**！！！
@@ -92,8 +93,3 @@ redirect_from:
 - 2023-2024年吉林大学正元奖学金
 - 2024-2026年2年中国国家留学基金委访问学者项目
 
-
-<span class='anchor' id='-gzsx'></span>
-
-# 💻 工作实习
-- *2019.12 - 2020.1*, 中国科学院计算技术研究所，北京

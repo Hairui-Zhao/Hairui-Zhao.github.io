@@ -35,6 +35,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 📰 新闻
+- 🎉*2025.04*, 我们的文章" FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs. "被 2025 USENIX Annual Technical Conference (**CCF A会**) 接收！！！
 - 🎉*2025.02*, 我们的文章" Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update. "被 Future Generation Computing System (FGCS, **中科院一区 TOP**) 接收！！！这是2023年4月开始与我合作的师弟的文章，恭喜2023级硕士研究生田琦！
 - 🎉*2024.12*, 我们的文章" ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. "被 2025 IEEE International Conference on Computer Communications (**CCF A会**) 接收！！！
 - 🎉*2024.11*, 因 NLPCC 2024 最佳论文奖，接受西湖大学人工智能学院采访！！！[[网页]](https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml)
@@ -46,6 +47,15 @@ redirect_from:
 # 📝 学术成果
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Hairui Zhao`, Qi Tian*, Hongliang Li, Zizhong Chen. " FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs. " Accepted by 2025 USENIX Annual Technical Conference (**CCF A会**) 
+[[网页]]() 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,14 +78,14 @@ redirect_from:
 -	Hongliang Li, `Hairui Zhao`, Zhewen Xu, Xiang Li, and Haixiao Xu. " ExplSched: Maximizing Deep Learning Cluster Efficiency for Exploratory Jobs. " Published on 2023 IEEE Conference on CLUSTER Computing (非导师一作, **CCF B会**) 
 [[网页]](https://ieeexplore.ieee.org/document/10319954)
 
-
 - Hongliang Li, `Hairui Zhao`, Ting Sun, Xiang Li, Haixiao Xu and Keqin Li. " Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. " Published on 2024 Elsevier Journal of Parallel and Distributed Computing  (非导师一作, **CCF B刊**)
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0743731523001466)
-
 
 - Hongliang Li, Zichen Wang, `Hairui Zhao`, Meng Zhang, Xiang Li, Xiaohui Wei and Haixiao Xu. " Convergence-aware optimal checkpointing for exploratory deep learning training jobs. " Published on 2024 Elsevier Journal of Future Generation Computer Systems (**CCF B刊, 中科院一区 TOP**) 
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X24005612#:~:text=An%20approach%20to%20compute%20optimal%20check-pointing%20configuration%20for,a%20DL%20training%20job%2C%20minimizing%20the%20fault-tolerant%20overhead.) 
 
+- Hongliang Li, Qi Tian, Dong Xu, 'Hairui Zhao' and Zhewen Xu. "Alleviating straggler impacts for data parallel deep learning with hybrid parameter update." Published on Future Generation Computing System ( **中科院一区 TOP**)
+[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25000706?fr=RR-7&ref=pdf_download&rr=9363e13e6cd293e4)
 
 <span class='anchor' id='-ryjx'></span>
 

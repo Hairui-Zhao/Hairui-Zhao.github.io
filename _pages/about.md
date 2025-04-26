@@ -47,7 +47,7 @@ redirect_from:
 # 📝 学术成果
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ATC 2025</div><img src='images/ATC.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Hairui Zhao`, Qi Tian*, Hongliang Li, Zizhong Chen. " FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs. " Accepted by 2025 USENIX Annual Technical Conference (**CCF A会**) 

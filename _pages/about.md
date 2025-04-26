@@ -59,7 +59,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/INFOCOM.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Hairui Zhao`, Hongliang Li, Qi Tian, Jie Wu, Meng Zhang, Xiang Li, and Haixiao Xu. " ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. " Accepted by 2025 IEEE International Conference on Computer Communications (**CCF A会**) 
+-	`Hairui Zhao`, Hongliang Li, Qi Tian, Jie Wu, Meng Zhang, Zhewen Xu, Xiang Li, and Haixiao Xu. " ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. " Accepted by 2025 IEEE International Conference on Computer Communications (**CCF A会**) 
 [[网页]](https://cis.temple.edu/~jiewu/research/publications/Publication_files/m48122-zhao%20final.pdf#:~:text=This%20paper%20introduces%20Job-Array%20Pipeline%20Parallelism%20%28JAP%29%20that,sibling%20DL%20training%20jobs%20into%20a%20concurrent%20job-array.) 
 
 </div>

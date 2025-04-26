@@ -50,7 +50,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ATC 2025</div><img src='images/ATC.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Hairui Zhao`, Qi Tian*, Hongliang Li, Zizhong Chen. " FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs. " Accepted by 2025 USENIX Annual Technical Conference (**CCF A会**) 
+-	`Hairui Zhao*`, Qi Tian*, Hongliang Li, Zizhong Chen. " FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs. " Accepted by 2025 USENIX Annual Technical Conference (**CCF A会**) 
 [[网页]]() 
 
 </div>
@@ -81,10 +81,10 @@ redirect_from:
 - Hongliang Li, `Hairui Zhao`, Ting Sun, Xiang Li, Haixiao Xu and Keqin Li. " Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. " Published on 2024 Elsevier Journal of Parallel and Distributed Computing  (非导师一作, **CCF B刊**)
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0743731523001466)
 
-- Hongliang Li, Zichen Wang, `Hairui Zhao`, Meng Zhang, Xiang Li, Xiaohui Wei and Haixiao Xu. " Convergence-aware optimal checkpointing for exploratory deep learning training jobs. " Published on 2024 Elsevier Journal of Future Generation Computer Systems (**CCF B刊, 中科院一区 TOP**) 
+- Hongliang Li, Zichen Wang, `Hairui Zhao`, Meng Zhang, Xiang Li, Xiaohui Wei and Haixiao Xu. " Convergence-aware optimal checkpointing for exploratory deep learning training jobs. " Published on 2024 Elsevier Journal of Future Generation Computer Systems (**中科院一区 TOP**) 
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X24005612#:~:text=An%20approach%20to%20compute%20optimal%20check-pointing%20configuration%20for,a%20DL%20training%20job%2C%20minimizing%20the%20fault-tolerant%20overhead.) 
 
-- Hongliang Li, Qi Tian, Dong Xu, 'Hairui Zhao' and Zhewen Xu. "Alleviating straggler impacts for data parallel deep learning with hybrid parameter update." Published on Future Generation Computing System ( **中科院一区 TOP**)
+- Hongliang Li, Qi Tian, Dong Xu, `Hairui Zhao` and Zhewen Xu. "Alleviating straggler impacts for data parallel deep learning with hybrid parameter update." Published on Future Generation Computing System ( **中科院一区 TOP**)
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25000706?fr=RR-7&ref=pdf_download&rr=9363e13e6cd293e4)
 
 <span class='anchor' id='-ryjx'></span>

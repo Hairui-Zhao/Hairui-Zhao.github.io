@@ -28,12 +28,12 @@ redirect_from:
   <a href="http://www.ict.cas.cn/" style="text-decoration: none; color: #2c5aa0;">Institute of Computing Technology, Chinese Academy of Sciences</a>
 </div>
 
-<div style="font-size: 14pt; font-weight: bold; margin-top: 10px; font-family: monospace;">
+<div style="font-size: 14pt; font-weight: bold; margin-top: 10px;">
   zhaohairui[at]ict[dot]ac[dot]cn
 </div>
 
 ---
-
+<br><br><br>
 
 
 
@@ -46,8 +46,9 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xl'></span>
 
 # 🎓 研究经历
-- *2024.09 - 至今*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州, 访问学者
-- *2021.09 - 至今*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构
+- *2026.04 - 至今*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> ICT, CAS, Beijing, Assistant Professor
+- *2024.09 - 2025.10*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州, 访问学者
+- *2021.09 - 2026.03*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构
 - *2019.12 - 2020.2*, <a href="http://www.ict.cas.cn/"><img class="jpg" src="/images/ICT.jpg" width="20pt"></a> 中国科学院计算技术研究所，编译实验室，北京，实习生
 - *2019.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 硕士, 计算机软件与理论
 - *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 学士, 网络与信息安全

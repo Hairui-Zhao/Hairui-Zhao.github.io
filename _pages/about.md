@@ -18,16 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-**Hairui Zhao (赵海睿)**
+#**Hairui Zhao (赵海睿)**
 
-Assistant Professor / Special Research Assistant
+Assistant Professor / Special Research Assistant (特别研究助理)
 
-[Center for Advanced Computer Systems](https://www.ict.ac.cn/)
-[Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/)
+[Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/)
 
 zhaohairui[at]ict[dot]ac[dot]cn
 
-I am currently an **Assistant Professor/Postdoc (特别研究助理) at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
+---
+
+I am currently an **Assistant Professor/Postdoc at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
 I received my Ph.D. from the College of Computer Science and Technology at [**Jilin University**](https://www.jlu.edu.cn/), supervised by [**Associate Prof. Hongliang Li**](https://ccst.jlu.edu.cn/info/1028/20013.htm). From September 2024, I was a **Joint Ph.D. Student** at the [**University of California, Riverside (UCR)**](https://www.ucr.edu/), supported by the **China Scholarship Council (CSC)** and supervised by [**Prof. Zizhong Chen**](https://www.cs.ucr.edu/~chen/). I also hold a Master's degree from Jilin University, where I was supervised by [**Prof. Huaxiao Liu**](https://teachers.jlu.edu.cn/LHX17/zh_CN/index/641487/list/index.htm).
 赵海睿，博士研究生，就读于吉林大学计算机科学与技术学院，博士生导师为[李洪亮](https://ccst.jlu.edu.cn/info/1028/20013.htm)副教授，2024年9月，受国家留学基金委资助赴加州大学河滨分校（University of California, Riverside）公派留学，合作导师为[Zizhong Chen](https://www.cs.ucr.edu/~chen/)教授，并于吉林大学计算机科学与技术学院攻读硕士学位，硕士生导师为[刘华虓](https://teachers.jlu.edu.cn/LHX17/zh_CN/index/641487/list/index.htm)副教授。曾获国家励志奖学金、正元奖学金、王湘浩奖学金、优秀研究生干部、优秀班级干部等多项奖励和荣誉称号。
 

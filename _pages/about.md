@@ -22,19 +22,22 @@ redirect_from:
 
 <div style="font-size: 24pt; font-weight: bold; line-height: 1.2;">Hairui Zhao (赵海睿)</div>
 
-<div style="font-size: 16pt; margin-top: 10px;">Assistant Professor / Postdoc </div>
+<div style="font-size: 16pt; font-weight: bold; margin-top: 10px;">Assistant Professor / Postdoc </div>
 
 <div style="font-size: 14pt; color: #2c5aa0; margin-top: 15px;">
   <a href="http://www.ict.cas.cn/" style="text-decoration: none; color: #2c5aa0;">Institute of Computing Technology, Chinese Academy of Sciences</a>
 </div>
 
-<div style="font-size: 14pt; margin-top: 10px; font-family: monospace;">
+<div style="font-size: 14pt; font-weight: bold; margin-top: 10px; font-family: monospace;">
   zhaohairui[at]ict[dot]ac[dot]cn
 </div>
 
 ---
 
-Hairui Zhao (Harry) is currently an **Assistant Professor/Postdoc at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
+
+
+
+Hairui Zhao (Harry) is currently an **Assistant Professor/Postdoc (特别研究助理) at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
 I received my Ph.D. from the College of Computer Science and Technology at [**Jilin University**](https://www.jlu.edu.cn/), supervised by [**Associate Prof. Hongliang Li**](https://ccst.jlu.edu.cn/info/1028/20013.htm). From September 2024, I was a **Joint Ph.D. Student** at the [**University of California, Riverside (UCR)**](https://www.ucr.edu/), supported by the **China Scholarship Council (CSC)** and supervised by [**Prof. Zizhong Chen**](https://www.cs.ucr.edu/~chen/). I also hold a Master's degree from Jilin University, where I was supervised by [**Prof. Huaxiao Liu**](https://teachers.jlu.edu.cn/LHX17/zh_CN/index/641487/list/index.htm).
 My research interests include: **Distributed Systems, Fault-Tolerant, High-Performance Computing (HPC), and Scheduling.**
   

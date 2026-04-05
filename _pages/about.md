@@ -52,7 +52,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 - *2021.09 - 2026.03*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> JLU, Changchun, China, Ph.D.
 - *2019.12 - 2020.2*, <a href="http://www.ict.cas.cn/"><img class="jpg" src="/images/ICT.jpg" width="20pt"></a> ICT, CAS, Beijing, China, Intern
 - *2019.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> JLU, Changchun, China, M.S.
-- *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> JLU, Changchun, China, J.S.
+- *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> JLU, Changchun, China, B.S.
 
 <span class='anchor' id='-xshy'></span>
 

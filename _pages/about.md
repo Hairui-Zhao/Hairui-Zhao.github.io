@@ -24,11 +24,11 @@ redirect_from:
 
 <div style="font-size: 16pt; font-weight: bold; margin-top: 10px;">Assistant Professor / Postdoc </div>
 
-<div style="font-size: 14pt; color: #2c5aa0; margin-top: 15px;">
+<div style="font-size: 14pt; color: #2c5aa0; margin-top: 5px;">
   <a href="http://www.ict.cas.cn/" style="text-decoration: none; color: #2c5aa0;">Institute of Computing Technology, Chinese Academy of Sciences</a>
 </div>
 
-<div style="font-size: 14pt; font-weight: bold; margin-top: 10px;">
+<div style="font-size: 14pt; font-weight: bold; margin-top: 5px;">
   zhaohairui[at]ict[dot]ac[dot]cn
 </div>
 
@@ -38,7 +38,7 @@ redirect_from:
 
 
 Hairui Zhao (Harry) is currently an **Assistant Professor/Postdoc (特别研究助理) at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
-I received my Ph.D. from the College of Computer Science and Technology at [**Jilin University**](https://www.jlu.edu.cn/), supervised by [**Associate Prof. Hongliang Li**](https://ccst.jlu.edu.cn/info/1028/20013.htm). From September 2024, I was a **Joint Ph.D. Student** at the [**University of California, Riverside (UCR)**](https://www.ucr.edu/), supported by the **China Scholarship Council (CSC)** and supervised by [**Prof. Zizhong Chen**](https://www.cs.ucr.edu/~chen/). I also hold a Master's degree from Jilin University, where I was supervised by [**Prof. Huaxiao Liu**](https://teachers.jlu.edu.cn/LHX17/zh_CN/index/641487/list/index.htm).
+I received my Ph.D. from the College of Computer Science and Technology at [**Jilin University (JLU)**](https://www.jlu.edu.cn/), supervised by [**Associate Prof. Hongliang Li**](https://ccst.jlu.edu.cn/info/1028/20013.htm). From September 2024, I was a **Joint Ph.D. Student** at the [**University of California, Riverside (UCR)**](https://www.ucr.edu/), supported by the **China Scholarship Council (CSC)** and supervised by [**Prof. Zizhong Chen**](https://www.cs.ucr.edu/~chen/). I also hold a Master's degree from Jilin University, where I was supervised by [**Prof. Huaxiao Liu**](https://teachers.jlu.edu.cn/LHX17/zh_CN/index/641487/list/index.htm).
 My research interests include: **Distributed Systems, Fault-Tolerant, High-Performance Computing (HPC), and Scheduling.**
   
 
@@ -46,12 +46,13 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xl'></span>
 
 # 🎓 研究经历
-- *2026.04 - 至今*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> ICT, CAS, Beijing, Assistant Professor
-- *2024.09 - 2025.10*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> 加州大学河滨分校, 美国加利福尼亚州, 访问学者
-- *2021.09 - 2026.03*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 博士, 系统结构
-- *2019.12 - 2020.2*, <a href="http://www.ict.cas.cn/"><img class="jpg" src="/images/ICT.jpg" width="20pt"></a> 中国科学院计算技术研究所，编译实验室，北京，实习生
-- *2019.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 硕士, 计算机软件与理论
-- *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> 吉林大学 计算机科学与技术学院, 吉林长春, 学士, 网络与信息安全
+- *2026.04 - Present*, <a href="http://www.ict.cas.cn/"><img class="jpg" src="/images/ICT.jpg" width="20pt"></a>  ICT, CAS, Beijing, China, Assistant Professor (Postdoc)
+- *2025.11 - 2026.04*, <a href="http://www.ict.cas.cn/"><img class="jpg" src="/images/ICT.jpg" width="20pt"></a>  ICT, CAS, Beijing, China, Intern
+- *2024.09 - 2025.10*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> UCR, California, USA, Joint Ph.D.
+- *2021.09 - 2026.03*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> JLU, Changchun, China, Ph.D.
+- *2019.12 - 2020.2*, <a href="http://www.ict.cas.cn/"><img class="jpg" src="/images/ICT.jpg" width="20pt"></a> ICT, CAS, Beijing, China, Intern
+- *2019.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> JLU, Changchun, China, M.S.
+- *2015.09 - 2019.06*, <a href="https://www.jlu.edu.cn/"><img class="png" src="/images/jlu.png" width="20pt"></a> JLU, Changchun, China, J.S.
 
 <span class='anchor' id='-xshy'></span>
 

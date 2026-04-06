@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "简介"
+  - title: "About Me"
     url: "/#about-me"
 
-  - title: "研究经历"
+  - title: "Experience"
     url: "/#-xl"
 
-  - title: "新闻"
+  - title: "News"
     url: "/#-xshy"
 
-  - title: "学术成果"
+  - title: "Publications"
     url: "/#-lwzl"
 
-  - title: "荣誉奖项"
+  - title: "Honors and Awards"
     url: "/#-ryjx"

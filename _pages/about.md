@@ -45,7 +45,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 研究经历
+# 🎓 Experience
 - *2026.04 - Present*, <a href="http://www.ict.cas.cn/"><img class="jpg" src="/images/ICT.jpg" width="20pt"></a>  ICT, CAS, Beijing, China, Assistant Professor (Postdoc)
 - *2025.11 - 2026.04*, <a href="http://www.ict.cas.cn/"><img class="jpg" src="/images/ICT.jpg" width="20pt"></a>  ICT, CAS, Beijing, China, Intern
 - *2024.09 - 2025.10*, <a href="https://www.ucr.edu/"><img class="png" src="/images/ucr.png" width="20pt"></a> UCR, California, USA, Joint Ph.D.
@@ -56,7 +56,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 
 <span class='anchor' id='-xshy'></span>
 
-# 📰 新闻
+# 📰 News
 - 🎉*2025.04*, 我们的文章" FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs. "被 2025 USENIX Annual Technical Conference (**CCF A会**) 接收！！！
 - 🎉*2025.02*, 我们的文章" Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update. "被 Future Generation Computing System (FGCS, **中科院一区 TOP**) 接收！！！这是2023年4月开始与我合作的师弟的文章，恭喜2023级硕士研究生田琦！
 - 🎉*2024.12*, 我们的文章" ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. "被 2025 IEEE International Conference on Computer Communications (**CCF A会**) 接收！！！
@@ -66,7 +66,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 学术成果
+# 📝 Selected Publications
 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ATC 2025</div><img src='images/ATC.png' alt="sym" width="100%"></div></div>
@@ -111,7 +111,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 Honors and Awards
 - 2017-2018学年国家励志奖学金
 - 2018-2019优秀班级干部
 - 2018年吉林大学夏令营优秀营员

@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hairui Zhao"
   avatar           : "images/zhr.jpg"
-  bio              : "Chinese Academy of Sciences"
+  bio              : "CAS"
   location         : "Beijing, China"
-  employer         : "Institute of Computing Technology"
+  employer         : "ICT"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bERytNsAAAAJ"
   email            : "zhaohr21@mails.jlu.edu.cn"

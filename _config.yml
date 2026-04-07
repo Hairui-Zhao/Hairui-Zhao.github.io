@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "赵海睿"
-description              : "博士研究生"
+title                    : "Hairui Zhao"
+description              : "Assistant Professor"
 repository               : "hairui-zhao/hairui-zhao.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "赵海睿"
+  name             : "Hairui Zhao"
   avatar           : "images/zhr.jpg"
-  bio              : "吉林大学"
-  location         : "吉林 长春"
-  employer         : "计算机科学与技术学院"
+  bio              : "Chinese Academy of Sciences"
+  location         : "Beijing, China"
+  employer         : "Institute of Computing Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bERytNsAAAAJ"
   email            : "zhaohr21@mails.jlu.edu.cn"

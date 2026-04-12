@@ -57,11 +57,12 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
-- 🎉*2025.04*, 我们的文章" FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs. "被 2025 USENIX Annual Technical Conference (**CCF A会**) 接收！！！
-- 🎉*2025.02*, 我们的文章" Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update. "被 Future Generation Computing System (FGCS, **中科院一区 TOP**) 接收！！！这是2023年4月开始与我合作的师弟的文章，恭喜2023级硕士研究生田琦！
-- 🎉*2024.12*, 我们的文章" ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. "被 2025 IEEE International Conference on Computer Communications (**CCF A会**) 接收！！！
+- 🎉**Apr 2025**: Our paper "FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs" was accepted by **USENIX ATC 2025** (**CCF-A**).
+- 🎉**Feb 2025**: Our paper "Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update" was accepted by **Future Generation Computing Systems** (**FGCS, CAS Tier 1 TOP**). Congratulations to my collaborator, **Qi Tian (2023 Master student)**!
+- 🎉**Dec 2024**: Our paper "ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration" was accepted by **IEEE INFOCOM 2025** (**CCF-A**).
+- 🎉**Nov 2024**: Interviewed by the School of Engineering, Westlake University, regarding our NLPCC 2024 Best Paper Award. [[Link]](https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml)
 - 🎉*2024.11*, 因 NLPCC 2024 最佳论文奖，接受西湖大学人工智能学院采访！！！[[网页]](https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml)
-- 🎉*2024.11*, 我们的文章" Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. "在 2024 CCF International Conference on Natural Language Processing and Chinese Computing (**CCF C会**) 获得**最佳论文奖, 1/160**！！！
+- 🎉**Nov 2024**: Our paper "Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification" won the **Best Paper Award (1/160)** at **NLPCC 2024** (**CCF-C**).
 
  
 <span class='anchor' id='-lwzl'></span>

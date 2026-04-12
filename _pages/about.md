@@ -103,6 +103,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 </div>
 </div>
 
+<div style="display:none">
 
 -	Hongliang Li, `Hairui Zhao`, Zhewen Xu, Xiang Li, and Haixiao Xu. " ExplSched: Maximizing Deep Learning Cluster Efficiency for Exploratory Jobs. " Published on 2023 IEEE Conference on CLUSTER Computing (**CCF B Conference**) 
 [[网页]](https://ieeexplore.ieee.org/document/10319954)
@@ -110,7 +111,9 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 - Hongliang Li, `Hairui Zhao`, Ting Sun, Xiang Li, Haixiao Xu and Keqin Li. " Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. " Published on 2024 Elsevier Journal of Parallel and Distributed Computing  (**CCF B Journal**)
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0743731523001466)
 
-//- Hongliang Li, Qi Tian, Dong Xu, `Hairui Zhao` and Zhewen Xu. "Alleviating straggler impacts for data parallel deep learning with hybrid parameter update." Published on Future Generation Computing System ( **中科院一区 TOP**) [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25000706?fr=RR-7&ref=pdf_download&rr=9363e13e6cd293e4)
+- Hongliang Li, Qi Tian, Dong Xu, `Hairui Zhao` and Zhewen Xu. "Alleviating straggler impacts for data parallel deep learning with hybrid parameter update." Published on Future Generation Computing System ( **中科院一区 TOP**) [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25000706?fr=RR-7&ref=pdf_download&rr=9363e13e6cd293e4)
+
+</div>
 
 <span class='anchor' id='-ryjx'></span>
 

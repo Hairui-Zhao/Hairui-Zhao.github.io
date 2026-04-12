@@ -57,11 +57,17 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
+- 🎉**Apr 2026**: Two papers accepted by **HPDC 2026** (ACM International Symposium on High-Performance Parallel and Distributed Computing):
+    * "TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training."
+    * "cuNNQS-SCI: A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States."
+- 🎉**Nov 2025**: Three papers published in **PPoPP 2025** (ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming):
+    * "COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training."
+    * "CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training."
+    * "PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation."
 - 🎉**Apr 2025**: Our paper "FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs" was accepted by **USENIX ATC 2025** (**CCF-A**).
 - 🎉**Feb 2025**: Our paper "Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update" was accepted by **Future Generation Computing Systems** (**FGCS, CAS Tier 1 TOP**). Congratulations to my collaborator, **Qi Tian (2023 Master student)**!
 - 🎉**Dec 2024**: Our paper "ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration" was accepted by **IEEE INFOCOM 2025** (**CCF-A**).
 - 🎉**Nov 2024**: Interviewed by the School of Engineering, Westlake University, regarding our NLPCC 2024 Best Paper Award. [[Link]](https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml)
-- 🎉*2024.11*, 因 NLPCC 2024 最佳论文奖，接受西湖大学人工智能学院采访！！！[[网页]](https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml)
 - 🎉**Nov 2024**: Our paper "Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification" won the **Best Paper Award (1/160)** at **NLPCC 2024** (**CCF-C**).
 
  

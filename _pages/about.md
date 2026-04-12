@@ -57,10 +57,10 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
-- 🎉**Apr 2026**: Two papers accepted by **HPDC 2026** (ACM International Symposium on High-Performance Parallel and Distributed Computing):
+- 🎉**Apr 2026**: Two papers accepted by **HPDC 2026** (**CCF-A**):
     * "TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training."
     * "cuNNQS-SCI: A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States."
-- 🎉**Nov 2025**: Three papers published in **PPoPP 2025** (ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming):
+- 🎉**Nov 2025**: Three papers published in **PPoPP 2025** (**CCF-A**):
     * "COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training."
     * "CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training."
     * "PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation."

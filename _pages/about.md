@@ -118,6 +118,30 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards
+
+🏆 Featured Award
+- **Best Paper Award (1/160)**, The 13th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC 2024**)
+  ### 🎖️ Awards & Honors
+
+#### National & International
+- **CSC Scholarship (China Scholarship Council)**: Visiting Scholar Program (2024–2026)
+- **National Encouragement Scholarship** (2017–2018)
+
+#### University & Specialized
+- **Zhengyuan Scholarship**, Jilin University (2023–2024)
+- **Wang Xianghao Scholarship** (2022–2023)
+- **Outstanding Graduate Student Scholarship (Second Prize)** (2022–2023)
+- **Doctoral Academic Fellowship/Scholarship**, Jilin University (2021–2024)
+- **Master's Academic Fellowship/Scholarship**, Jilin University (2020–2021)
+- **Outstanding Camper**, Jilin University Summer Camp (2018)
+
+#### Leadership & Service
+- **Outstanding Graduate Student Leader** (2022–2023)
+- **Outstanding Youth League Leader**, Software Theory Graduate Student Union (2021)
+- **Outstanding Graduate Student Leader** (2020)
+- **Outstanding Class Officer** (2018–2019)
+
+<div style="display:none">
 - 2017-2018学年国家励志奖学金
 - 2018-2019优秀班级干部
 - 2018年吉林大学夏令营优秀营员
@@ -130,4 +154,4 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 - 2022-2023 年王湘浩奖学金
 - 2023-2024年吉林大学正元奖学金
 - 2024-2026年2年中国国家留学基金委访问学者项目
-
+</div>

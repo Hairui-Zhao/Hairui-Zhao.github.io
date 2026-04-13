@@ -119,25 +119,23 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 
 # 🏅 Honors and Awards
 
-🏆 Featured Award
-- **Best Paper Award (1/160)**, The 13th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC 2024**)
-  ### 🎖️ Awards & Honors
+🏆 **Featured Award**
+- **Best Paper Award (1/160)**, (**NLPCC 2024**)
 
-#### National & International
-- **CSC Scholarship (China Scholarship Council)**: Visiting Scholar Program (2024–2026)
+🏆 **National & International**
+- **CSC Scholarship (China Scholarship Council)**: (2024–2026)
 - **National Encouragement Scholarship** (2017–2018)
 
-#### University & Specialized
+🏆 **University & Specialized**
 - **Zhengyuan Scholarship**, Jilin University (2023–2024)
-- **Wang Xianghao Scholarship** (2022–2023)
+- **Wang Xianghao Scholarship** Jilin University (2022–2023)
 - **Outstanding Graduate Student Scholarship (Second Prize)** (2022–2023)
 - **Doctoral Academic Fellowship/Scholarship**, Jilin University (2021–2024)
 - **Master's Academic Fellowship/Scholarship**, Jilin University (2020–2021)
-- **Outstanding Camper**, Jilin University Summer Camp (2018)
 
-#### Leadership & Service
+🏆 **Leadership & Service**
 - **Outstanding Graduate Student Leader** (2022–2023)
-- **Outstanding Youth League Leader**, Software Theory Graduate Student Union (2021)
+- **Outstanding Youth League Leader**, (2021)
 - **Outstanding Graduate Student Leader** (2020)
 - **Outstanding Class Officer** (2018–2019)
 

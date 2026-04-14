@@ -80,7 +80,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <div class='paper-box-text' markdown="1">
 
 -	`Hairui Zhao*`, Qi Tian*, Hongliang Li, Zizhong Chen. " FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs. " Accepted by 2025 USENIX Annual Technical Conference (**CCF-A Conference**)
-[[网页]]() 
+[[Link]]() 
 
 </div>
 </div>
@@ -89,7 +89,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <div class='paper-box-text' markdown="1">
 
 -	`Hairui Zhao`, Hongliang Li, Qi Tian, Jie Wu, Meng Zhang, Zhewen Xu, Xiang Li, and Haixiao Xu. " ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. " Accepted by 2025 IEEE International Conference on Computer Communications (**CCF A Conference**) 
-[[网页]](https://cis.temple.edu/~jiewu/research/publications/Publication_files/m48122-zhao%20final.pdf#:~:text=This%20paper%20introduces%20Job-Array%20Pipeline%20Parallelism%20%28JAP%29%20that,sibling%20DL%20training%20jobs%20into%20a%20concurrent%20job-array.) 
+[[Link]](https://cis.temple.edu/~jiewu/research/publications/Publication_files/m48122-zhao%20final.pdf#:~:text=This%20paper%20introduces%20Job-Array%20Pipeline%20Parallelism%20%28JAP%29%20that,sibling%20DL%20training%20jobs%20into%20a%20concurrent%20job-array.) 
 
 </div>
 </div>
@@ -98,7 +98,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <div class='paper-box-text' markdown="1">
 
 -	`Hairui Zhao*`, Xinyu Li*, Hongliang Li. " Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. " Published on 2024 CCF International Conference on Natural Language Processing and Chinese Computing (**Best Paper Award, 1/160, CCF C Conference**) 
-[[网页]](https://link.springer.com/chapter/10.1007/978-981-97-9440-9_34)
+[[Link]](https://link.springer.com/chapter/10.1007/978-981-97-9440-9_34)
 
 </div>
 </div>

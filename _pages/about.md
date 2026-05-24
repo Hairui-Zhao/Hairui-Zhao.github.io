@@ -57,9 +57,13 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
+- 🎉**May 2026**: Our paper "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving" was accepted by **ACM SIGCOMM 2026** (**CCF-A**). Congratulations to the student I co-advised, **Zedong**!
+- 🎉**Apr 2026**: Our paper "Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee" was published in **ACM Transactions on Architecture and Code Optimization** (**TACO, CCF-A**).
 - 🎉**Apr 2026**: Two papers accepted by **HPDC 2026** (**CCF-A**):
     * "TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training."
     * "cuNNQS-SCI: A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States."
+- 🎉**Mar 2026**: Our paper "ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs" was accepted by **ISCA 2026** (**CCF-A**).
+- 🎉**Dec 2025**: Our paper "Rehabilitating over Recomputing: A Novel Failure Recovery Method for Large Model Training" was accepted by **IEEE INFOCOM 2026** (**CCF-A**).
 - 🎉**Nov 2025**: Three papers published in **PPoPP 2025** (**CCF-A**):
     * "COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training."
     * "CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training."

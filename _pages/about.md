@@ -66,8 +66,8 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 - 🎉**Dec 2025**: Our paper "Rehabilitating over Recomputing: A Novel Failure Recovery Method for Large Model Training" was accepted by **IEEE INFOCOM 2026** (**CCF-A**).
 - 🎉**Nov 2025**: Three papers published in **PPoPP 2025** (**CCF-A**):
     * "COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training."
-    * "CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training."
-    * "PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation."
+    * "CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training." (**Best Paper Nominee**)
+    * "PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation." (**Best Paper Nominee**)
 - 🎉**Apr 2025**: Our paper "FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs" was accepted by **USENIX ATC 2025** (**CCF-A**).
 - 🎉**Feb 2025**: Our paper "Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update" was accepted by **Future Generation Computing Systems** (**FGCS, CAS Tier 1 TOP**). Congratulations to my collaborator, **Qi Tian (2023 Master student)**!
 - 🎉**Dec 2024**: Our paper "ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration" was accepted by **IEEE INFOCOM 2025** (**CCF-A**).

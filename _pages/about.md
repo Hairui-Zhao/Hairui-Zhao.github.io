@@ -58,6 +58,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
+- 🎉**July 2026**: Our paper "Evaluation and Optimization of Communication Compression for 10K-GPU LLM Training" was accepted by **IEEE SC 2026** (**CCF-A**). Congratulations to **Xingchen**!
 - 🎉**May 2026**: Our paper "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving" was accepted by **ACM SIGCOMM 2026** (**CCF-A**). Congratulations to the student I co-advised, **Zedong**!
 - 🎉**Apr 2026**: Our paper "Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee" was published in **ACM Transactions on Architecture and Code Optimization** (**TACO, CCF-A**).
 - 🎉**Apr 2026**: Two papers accepted by **HPDC 2026** (**CCF-A**):

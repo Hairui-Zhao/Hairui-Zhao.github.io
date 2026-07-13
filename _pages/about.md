@@ -37,8 +37,8 @@ redirect_from:
 
 
 
-Hairui Zhao (Harry) is currently an **Assistant Professor/Postdoc (特别研究助理) at the [High Performance Computer Research Center] (led by [Prof. Guangmin Tan](https://people.ucas.ac.cn/~tgm))(http://www.ict.cas.cn/jssgk/zzjg/kyxt/gxnjsyjzx/js/), [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
-He is currently a member of the **Data Infrastructure Software Group**, led by **[Prof. Dingwen Tao](https://people.ucas.edu.cn/~tdw)**
+Hairui Zhao (Harry) is currently an **Assistant Professor/Postdoc (特别研究助理) at the [High Performance Computer Research Center](http://www.ict.cas.cn/jssgk/zzjg/kyxt/gxnjsyjzx/js/) (led by [Prof. Guangmin Tan](https://people.ucas.ac.cn/~tgm)), [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
+He is currently a member of the **Data Infrastructure Software Group**, led by **[Prof. Dingwen Tao](https://people.ucas.edu.cn/~tdw)**.
 He received my Ph.D. from the College of Computer Science and Technology at [**Jilin University (JLU)**](https://www.jlu.edu.cn/), supervised by [**Associate Prof. Hongliang Li**](https://ccst.jlu.edu.cn/info/1028/20013.htm). From September 2024, I was a **Joint Ph.D. Student** at the [**University of California, Riverside (UCR)**](https://www.ucr.edu/), supported by the **China Scholarship Council (CSC)** and supervised by [**Prof. Zizhong Chen**](https://www.cs.ucr.edu/~chen/).
 My research interests include: **Distributed Systems, Fault-Tolerant, High-Performance Computing (HPC), and Scheduling.**
   

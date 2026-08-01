@@ -74,13 +74,12 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <details>
 <summary>More Details</summary>
   
-<span class='anchor' id='-xshy'></span>
 - 🎉**Apr 2025**: Our paper "FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs" was accepted by **USENIX ATC 2025** (**CCF-A**).
 - 🎉**Feb 2025**: Our paper "Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update" was accepted by **Future Generation Computing Systems** (**FGCS, CAS Tier 1 TOP**). Congratulations to my collaborator, **Qi Tian (2023 Master student)**!
 - 🎉**Dec 2024**: Our paper "ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration" was accepted by **IEEE INFOCOM 2025** (**CCF-A**).
 - 🎉**Nov 2024**: Interviewed by the School of Engineering, Westlake University, regarding our NLPCC 2024 Best Paper Award. [[Link]](https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml)
 - 🎉**Nov 2024**: Our paper "Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification" won the **Best Paper Award (1/160)** at **NLPCC 2024** (**CCF-C**).
-- 
+
 </details>
  
 <span class='anchor' id='-lwzl'></span>

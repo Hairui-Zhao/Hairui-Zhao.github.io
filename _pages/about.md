@@ -126,17 +126,29 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 # Publications
 **{*} denotes corresponding author; {^} denotes equal contribution**
 
+Xingchen Liu, Daran Sun, Xingjian Tian, Man Liu, Haoran Kong, Zheng Wei, **<u>Hairui Zhao*</u>**, Guangming Tan, Dingwen Tao*. Evaluation and Optimization of Communication Compression for 10K-GPU LLM Training
+
 **<u>Hairui Zhao</u>^**, Qi Tian^, Hongliang Li*, Zizhong Chen. FlexPipe: Maximizing Training Efficiency for Transformer-based Models with Variable-Length Inputs. USENIX ATC 2025. (CCF-A)
 
-Hairui Zhao, Hongliang Li*, Qi Tian, Jie Wu, Meng Zhang, Zhewen Xu, Xiang Li, Haixiao Xu. ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. INFOCOM 2025. (CCF-A)
+**<u>Hairui Zhao</u>**, Hongliang Li*, Qi Tian, Jie Wu, Meng Zhang, Zhewen Xu, Xiang Li, Haixiao Xu. ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. INFOCOM 2025. (CCF-A)
 
-Hairui Zhao^, Xinyu Li^, Hongliang Li. Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. NLPCC 2024. (**Best Paper Award🏆**, CCF-C)
+**<u>Hairui Zhao^</u>**, Xinyu Li^, Hongliang Li. Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. NLPCC 2024. (**Best Paper Award🏆**, CCF-C)
+
+Bing Lu^, Zedong Liu^, **<u>Hairui Zhao</u>**, Dejun Luo, Wenjing Huang, Yida Gu, Jinyang Liu, Guangming Tan, Dingwen Tao*. PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation. PPoPP 2026. (**Best Paper Nominee🏆**, CCF-A)
+
+Yida Gu^, Fakang Wang^, Jianhao Fu, Zhenhang Sun, Qianyu Zhang, **<u>Hairui Zhao</u>**, Xingchen Liu, Yang Tian, Wenjing Huang, Zedong Liu, Yifan Chen, Jinwu Yang, Yueyuan Zhou, Qian Zhao, Haoxu Li, Tao Wang*, Feng Yu, Zhan Wang, Guangming Tan, Dingwen Tao*. CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training. PPoPP 2026. (**Best Paper Nominee🏆**, CCF-A)
+
+Zedong Liu, Xinyang Ma, Dejun Luo, Hairui Zhao, Bing Lu, Wenjing Huang, Yida Gu, Xingchen Liu, Zheng Wei, Jinyang Liu,  KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving. arXiv preprint 2026.
+
+Hongliang Li, **<u>Hairui Zhao</u>**, Ting Sun, Xiang Li*, Haixiao Xu, Keqin Li. Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. JPDC 2024. (CCF-B)
+
+Hongliang Li, **<u>Hairui Zhao</u>**, Zhewen Xu, Xiang Li*, Haixiao Xu. ExplSched: Maximizing Deep Learning Cluster Efficiency for Exploratory Jobs. CLUSTER 2023. (CCF-B)
 
 XingChen Liu, Haoran Kong, Hairui Zhao, Shengkai Lyu, Zheng Wei, Man Liu, Xingjian Tian, Liyang Zhao, Zizhong Chen, Dingwen Tao*  COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training. PPoPP 2026. (CCF-A)
 
-Bo Lu, Z Liu, Hairui Zhao, D Luo, W Huang, Y Gu, J Liu, Guangming Tan, D Tao. PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation. PPoPP 2026. (**Best Paper Nominee🏆**, CCF-A)
 
-Y Gu, F Wang, J Fu, Z Sun, Q Zhang, Hairui Zhao, X Liu, Y Tian, W Huang, et al. CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training. PPoPP 2026. (**Best Paper Nominee🏆**, CCF-A)
+
+
 
 Z Wang, Hongliang Li, Jie Wu, Zhewen Xu, Hairui Zhao, Qi Tian, Haixiao Xu. Rehabilitating over Recomputing: A Novel Failure Recovery Method for Large Model Training. INFOCOM 2026. (CCF-A)
 
@@ -148,28 +160,16 @@ M Liu, X Liu, X Tian, Bo Lu, S Lyu, S Yin, W Huang, Z Wei, Hairui Zhao, Guangmin
 
 J Yang, Jie Wu, Z Liu, X Ma, Hairui Zhao, Y Gu, Y Huang, X Liu, W Huang, Z Wei, et al. ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs. arXiv preprint 2026.
 
-Z Liu, X Ma, D Luo, Hairui Zhao, Bo Lu, W Huang, Y Gu, X Liu, Z Wei, J Liu, et al. KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving. arXiv preprint 2026.
-
-
-
-
-
 
 Hongliang Li, Z Wang, Hairui Zhao, Meng Zhang, Xiang Li, Haixiao Xu. Convergence-aware Optimal Checkpointing for Exploratory Deep Learning Training Jobs. FGCS 2025. (CCF-C)
 
 Hongliang Li, Qi Tian, Dong Xu, Hairui Zhao, Zhewen Xu. Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update. FGCS 2025. (CCF-C)
 
-### 2024
 
 
-Hongliang Li, Hairui Zhao, Ting Sun, Xiang Li, Haixiao Xu, Keqin Li. Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. JPDC 2024. (CCF-B)
-
-X Wei, G Chen, C Yang, Hairui Zhao, C Wang, H Yue. EFNAS: Efficient Federated Neural Architecture Search Across AIoT Devices. IJCNN 2024. (CCF-B)
-
-Hongliang Li, Hairui Zhao, Qi Tian, Xiang Li, X Wei, Haixiao Xu. Online Scheduling for Exploratory Training Jobs in Deep Learning Clusters. Authorea Preprints 2024.
 
 ### 2023
-Hongliang Li, Hairui Zhao, Zhewen Xu, Xiang Li, Haixiao Xu. ExplSched: Maximizing Deep Learning Cluster Efficiency for Exploratory Jobs. CLUSTER 2023. (CCF-B)
+
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards

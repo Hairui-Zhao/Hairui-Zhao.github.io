@@ -152,9 +152,9 @@ Zhewen Xu, Hongliang Li*, Junze Han, Hengshan Yue, **<u>Hairui Zhao</u>**, Dongy
 
 Daran Sun, Bowen Kan, Haoquan Long, **<u>Hairui Zhao</u>**, Haoxu Li, Yicheng Liu, Pengyu Zhou, Ankang Feng, Wenjing Huang, Yida Gu, Zhenyu Li, Honghui Shang*, Yunquan Zhang, Dingwen Tao, Ninghui Sun, Guangming Tan*. A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States. HPDC 2026. (CCF-A)
 
-Man Liu, Xingchen Liu, Xingjian Tian, Bing Lu, Shengkay Lyu, Shengquan Yin, Wenjing Huang, Zheng Wei, **<u>Hairui Zhao</u>**, Guangming Tan, Dingwen Tao*. TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training. arXiv preprint 2026.
+Man Liu, Xingchen Liu, Xingjian Tian, Bing Lu, Shengkay Lyu, Shengquan Yin, Wenjing Huang, Zheng Wei, **<u>Hairui Zhao</u>**, Guangming Tan, Dingwen Tao*. TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training. HPDC 2026. (CCF-A)
 
-Jinwu Yang, Jiaan Wu, Zedong Liu, Xinyang Ma, **<u>Hairui Zhao</u>**, Yida Gu, Yuanhong Huang, Xingchen Liu, Wenjing Huang, Zheng Wei, Jing Xing, Yili Ma, Qingyi Zhang, Baoyi An, Zhongzhe Hu, Shaoteng Liu, Xia Zhu, Jiaxun Lu, Guangming Tan, Dingwen Tao*. ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs. arXiv preprint 2026.
+Jinwu Yang, Jiaan Wu, Zedong Liu, Xinyang Ma, **<u>Hairui Zhao</u>**, Yida Gu, Yuanhong Huang, Xingchen Liu, Wenjing Huang, Zheng Wei, Jing Xing, Yili Ma, Qingyi Zhang, Baoyi An, Zhongzhe Hu, Shaoteng Liu, Xia Zhu, Jiaxun Lu, Guangming Tan, Dingwen Tao*. ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs. ISCA 2026. (CCF-A)
 
 
 <span class='anchor' id='-ryjx'></span>

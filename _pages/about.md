@@ -121,7 +121,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 - Hongliang Li, Qi Tian, Dong Xu, `Hairui Zhao` and Zhewen Xu. "Alleviating straggler impacts for data parallel deep learning with hybrid parameter update." Published on Future Generation Computing System ( **中科院一区 TOP**) [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0167739X25000706?fr=RR-7&ref=pdf_download&rr=9363e13e6cd293e4)
 
 </div>
---!>
+-->
 
 # Publications
 **{*} denotes corresponding author; {^} denotes equal contribution**

@@ -124,7 +124,6 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 </div>
 -->
 
-# Publications
 **{*} denotes corresponding author; {^} denotes equal contribution**
 
 Xingchen Liu, Daran Sun, Xingjian Tian, Man Liu, Haoran Kong, Zheng Wei, **<u>Hairui Zhao*</u>**, Guangming Tan, Dingwen Tao*. Evaluation and Optimization of Communication Compression for 10K-GPU LLM Training. **SC 2026. (CCF-A)**

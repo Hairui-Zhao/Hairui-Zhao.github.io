@@ -126,7 +126,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 # Publications
 **{*} denotes corresponding author; {^} denotes equal contribution**
 
-Xingchen Liu, Daran Sun, Xingjian Tian, Man Liu, Haoran Kong, Zheng Wei, **<u>Hairui Zhao*</u>**, Guangming Tan, Dingwen Tao*. Evaluation and Optimization of Communication Compression for 10K-GPU LLM Training
+Xingchen Liu, Daran Sun, Xingjian Tian, Man Liu, Haoran Kong, Zheng Wei, **<u>Hairui Zhao*</u>**, Guangming Tan, Dingwen Tao*. Evaluation and Optimization of Communication Compression for 10K-GPU LLM Training. SC 2026. (CCF-A)
 
 **<u>Hairui Zhao</u>^**, Qi Tian^, Hongliang Li*, Zizhong Chen. FlexPipe: Maximizing Training Efficiency for Transformer-based Models with Variable-Length Inputs. USENIX ATC 2025. (CCF-A)
 
@@ -146,29 +146,16 @@ Hongliang Li, **<u>Hairui Zhao</u>**, Zhewen Xu, Xiang Li*, Haixiao Xu. ExplSche
 
 XingChen Liu, Haoran Kong, Hairui Zhao, Shengkai Lyu, Zheng Wei, Man Liu, Xingjian Tian, Liyang Zhao, Zizhong Chen, Dingwen Tao*  COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training. PPoPP 2026. (CCF-A)
 
+Z Wang, Hongliang Li, Jie Wu, Zhewen Xu, **<u>Hairui Zhao</u>**, Qi Tian, Haixiao Xu. Rehabilitating over Recomputing: A Novel Failure Recovery Method for Large Model Training. INFOCOM 2026. (CCF-A)
 
+Zhewen Xu, Hongliang Li*, Junze Han, Hengshan Yue, **<u>Hairui Zhao</u>**, Dongyuan Tian, Zijian Li, Xiaohui Wei*. Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee. TACO 2026. (CCF-A)
 
+Daran Sun, Bowen Kan, Haoquan Long, **<u>Hairui Zhao</u>**, Haoxu Li, Yicheng Liu, Pengyu Zhou, Ankang Feng, Wenjing Huang, Yida Gu, Zhenyu Li, Honghui Shang*, Yunquan Zhang, Dingwen Tao, Ninghui Sun, Guangming Tan*. A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States. HPDC 2026. (CCF-A)
 
+Man Liu, Xingchen Liu, Xingjian Tian, Bing Lu, Shengkay Lyu, Shengquan Yin, Wenjing Huang, Zheng Wei, **<u>Hairui Zhao</u>**, Guangming Tan, Dingwen Tao*. TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training. arXiv preprint 2026.
 
-Z Wang, Hongliang Li, Jie Wu, Zhewen Xu, Hairui Zhao, Qi Tian, Haixiao Xu. Rehabilitating over Recomputing: A Novel Failure Recovery Method for Large Model Training. INFOCOM 2026. (CCF-A)
+Jinwu Yang, Jiaan Wu, Zedong Liu, Xinyang Ma, **<u>Hairui Zhao</u>**, Yida Gu, Yuanhong Huang, Xingchen Liu, Wenjing Huang, Zheng Wei, Jing Xing, Yili Ma, Qingyi Zhang, Baoyi An, Zhongzhe Hu, Shaoteng Liu, Xia Zhu, Jiaxun Lu, Guangming Tan, Dingwen Tao*. ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs. arXiv preprint 2026.
 
-Zhewen Xu, Hongliang Li, J Han, H Yue, Hairui Zhao, D Tian, Z Li, X Wei. Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee. TACO 2026. (CCF-A)
-
-D Sun, B Kan, H Long, Hairui Zhao, Hongliang Li, Y Liu, P Zhou, A Feng, W Huang, et al. A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States. arXiv preprint 2026.
-
-M Liu, X Liu, X Tian, Bo Lu, S Lyu, S Yin, W Huang, Z Wei, Hairui Zhao, Guangming Tan, et al. TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training. arXiv preprint 2026.
-
-J Yang, Jie Wu, Z Liu, X Ma, Hairui Zhao, Y Gu, Y Huang, X Liu, W Huang, Z Wei, et al. ENEC: A Lossless AI Model Compression Method Enabling Fast Inference on Ascend NPUs. arXiv preprint 2026.
-
-
-Hongliang Li, Z Wang, Hairui Zhao, Meng Zhang, Xiang Li, Haixiao Xu. Convergence-aware Optimal Checkpointing for Exploratory Deep Learning Training Jobs. FGCS 2025. (CCF-C)
-
-Hongliang Li, Qi Tian, Dong Xu, Hairui Zhao, Zhewen Xu. Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update. FGCS 2025. (CCF-C)
-
-
-
-
-### 2023
 
 <span class='anchor' id='-ryjx'></span>
 

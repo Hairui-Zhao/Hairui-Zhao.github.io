@@ -140,9 +140,9 @@ Xingchen Liu, Daran Sun, Xingjian Tian, Man Liu, Haoran Kong, Zheng Wei, **<u>Ha
 
 Bing Lu^, Zedong Liu^, **<u>Hairui Zhao</u>**, Dejun Luo, Wenjing Huang, Yida Gu, Jinyang Liu, Guangming Tan, Dingwen Tao*. PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation. **PPoPP 2026. (Best Paper Nominee🏆, CCF-A)**
 
-Yida Gu^, Fakang Wang^, Jianhao Fu, Zhenhang Sun, Qianyu Zhang, **<u>Hairui Zhao</u>**, Xingchen Liu, Yang Tian, Wenjing Huang, Zedong Liu, Yifan Chen, Jinwu Yang, Yueyuan Zhou, Qian Zhao, Haoxu Li, Tao Wang*, Feng Yu, Zhan Wang, Guangming Tan, Dingwen Tao*. CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training. **PPoPP 2026. (Best Paper Nominee🏆, CCF-A)**
+Yida Gu^, Fakang Wang^, Jianhao Fu, Zhenhang Sun, Qianyu Zhang, **<u>Hairui Zhao</u>**, Xingchen Liu, Yang Tian, Wenjing Huang, Zedong Liu, Yifan Chen, Jinwu Yang, Yueyuan Zhou, Qian Zhao, Haoxu Li, Tao Wang\*, Feng Yu, Zhan Wang, Guangming Tan, Dingwen Tao\*. CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training. **PPoPP 2026. (Best Paper Nominee🏆, CCF-A)**
 
-Zedong Liu, Xinyang Ma, Dejun Luo,  **<u>Hairui Zhao</u>**, Bing Lu, Wenjing Huang, Yida Gu, Xingchen Liu, Zheng Wei, Jinyang Liu,  KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving. **SIGCOMM 2026. (CCF-A)**
+Zedong Liu, Xinyang Ma, Dejun Luo,  **<u>Hairui Zhao</u>**, Bing Lu, Wenjing Huang, Yida Gu, Xingchen Liu, Zheng Wei, Jinyang Liu, Dingwen Tao\*, Guangming Tan\*. KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving. **SIGCOMM 2026. (CCF-A)**
 
 Hongliang Li, **<u>Hairui Zhao</u>**, Ting Sun, Xiang Li*, Haixiao Xu, Keqin Li. Interference-aware Opportunistic Job Placement for Shared Distributed Deep Learning Clusters. JPDC 2024. (CCF-B)
 
@@ -152,9 +152,9 @@ XingChen Liu^, Haoran Kong^,  **<u>Hairui Zhao</u>**, Shengkai Lyu, Zheng Wei, M
 
 Zichen Wang, Hongliang Li*, Jie Wu, Zhewen Xu, **<u>Hairui Zhao</u>**, Qi Tian, Haixiao Xu. Rehabilitating over Recomputing: A Novel Failure Recovery Method for Large Model Training. **INFOCOM 2026. (CCF-A)**
 
-Zhewen Xu, Hongliang Li*, Junze Han, Hengshan Yue, **<u>Hairui Zhao</u>**, Dongyuan Tian, Zijian Li, Xiaohui Wei*. Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee. **TACO 2026. (CCF-A)**
+Zhewen Xu, Hongliang Li\*, Junze Han, Hengshan Yue, **<u>Hairui Zhao</u>**, Dongyuan Tian, Zijian Li, Xiaohui Wei\*. Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee. **TACO 2026. (CCF-A)**
 
-Daran Sun^, Bowen Kan^, Haoquan Long^, **<u>Hairui Zhao</u>**, Haoxu Li, Yicheng Liu, Pengyu Zhou, Ankang Feng, Wenjing Huang, Yida Gu, Zhenyu Li, Honghui Shang*, Yunquan Zhang, Dingwen Tao, Ninghui Sun, Guangming Tan*. A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States. **HPDC 2026. (CCF-A)**
+Daran Sun^, Bowen Kan^, Haoquan Long^, **<u>Hairui Zhao</u>**, Haoxu Li, Yicheng Liu, Pengyu Zhou, Ankang Feng, Wenjing Huang, Yida Gu, Zhenyu Li, Honghui Shang\*, Yunquan Zhang, Dingwen Tao, Ninghui Sun, Guangming Tan\*. A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States. **HPDC 2026. (CCF-A)**
 
 Man Liu, Xingchen Liu, Xingjian Tian, Bing Lu, Shengkay Lyu, Shengquan Yin, Wenjing Huang, Zheng Wei, **<u>Hairui Zhao</u>**, Guangming Tan, Dingwen Tao*. TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training. **HPDC 2026. (CCF-A)**
 

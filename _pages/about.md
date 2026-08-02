@@ -136,7 +136,7 @@ Xingchen Liu, Daran Sun, Xingjian Tian, Man Liu, Haoran Kong, Zheng Wei, **<u>Ha
 
 **<u>Hairui Zhao</u>**, Hongliang Li*, Qi Tian, Jie Wu, Meng Zhang, Zhewen Xu, Xiang Li, Haixiao Xu. ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration. **INFOCOM 2025. (CCF-A)**
 
-**<u>Hairui Zhao^</u>**, Xinyu Li^, Hongliang Li. Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. **NLPCC 2024. (Best Paper Award🏆 CCF-C)**
+**<u>Hairui Zhao^</u>**, Xinyu Li^, Hongliang Li*. Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification. **NLPCC 2024. (Best Paper Award🏆 CCF-C)**
 
 Bing Lu^, Zedong Liu^, **<u>Hairui Zhao</u>**, Dejun Luo, Wenjing Huang, Yida Gu, Jinyang Liu, Guangming Tan, Dingwen Tao*. PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation. **PPoPP 2026. (Best Paper Nominee🏆, CCF-A)**
 

@@ -148,13 +148,13 @@ Hongliang Li, **<u>Hairui Zhao</u>**, Ting Sun, Xiang Li*, Haixiao Xu, Keqin Li.
 
 Hongliang Li, **<u>Hairui Zhao</u>**, Zhewen Xu, Xiang Li*, Haixiao Xu. ExplSched: Maximizing Deep Learning Cluster Efficiency for Exploratory Jobs. CLUSTER 2023. (CCF-B)
 
-XingChen Liu, Haoran Kong,  **<u>Hairui Zhao</u>**, Shengkai Lyu, Zheng Wei, Man Liu, Xingjian Tian, Liyang Zhao, Zizhong Chen, Dingwen Tao*  COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training. **PPoPP 2026. (CCF-A)**
+XingChen Liu^, Haoran Kong^,  **<u>Hairui Zhao</u>**, Shengkai Lyu, Zheng Wei, Man Liu, Xingjian Tian, Liyang Zhao, Zizhong Chen, Dingwen Tao*. COCCL: A Collective Communication Library Supporting Easy Integration and Configuration of Customized Compression for Scalable LLM Training. **PPoPP 2026. (CCF-A)**
 
-Zichen Wang, Hongliang Li, Jie Wu, Zhewen Xu, **<u>Hairui Zhao</u>**, Qi Tian, Haixiao Xu. Rehabilitating over Recomputing: A Novel Failure Recovery Method for Large Model Training. **INFOCOM 2026. (CCF-A)**
+Zichen Wang, Hongliang Li*, Jie Wu, Zhewen Xu, **<u>Hairui Zhao</u>**, Qi Tian, Haixiao Xu. Rehabilitating over Recomputing: A Novel Failure Recovery Method for Large Model Training. **INFOCOM 2026. (CCF-A)**
 
 Zhewen Xu, Hongliang Li*, Junze Han, Hengshan Yue, **<u>Hairui Zhao</u>**, Dongyuan Tian, Zijian Li, Xiaohui Wei*. Sift: Channel-Wise Historical Embedding for High Efficiency Distributed Graph Neural Network Training with Accuracy Guarantee. **TACO 2026. (CCF-A)**
 
-Daran Sun, Bowen Kan, Haoquan Long, **<u>Hairui Zhao</u>**, Haoxu Li, Yicheng Liu, Pengyu Zhou, Ankang Feng, Wenjing Huang, Yida Gu, Zhenyu Li, Honghui Shang*, Yunquan Zhang, Dingwen Tao, Ninghui Sun, Guangming Tan*. A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States. **HPDC 2026. (CCF-A)**
+Daran Sun^, Bowen Kan^, Haoquan Long^, **<u>Hairui Zhao</u>**, Haoxu Li, Yicheng Liu, Pengyu Zhou, Ankang Feng, Wenjing Huang, Yida Gu, Zhenyu Li, Honghui Shang*, Yunquan Zhang, Dingwen Tao, Ninghui Sun, Guangming Tan*. A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States. **HPDC 2026. (CCF-A)**
 
 Man Liu, Xingchen Liu, Xingjian Tian, Bing Lu, Shengkay Lyu, Shengquan Yin, Wenjing Huang, Zheng Wei, **<u>Hairui Zhao</u>**, Guangming Tan, Dingwen Tao*. TACO: Efficient Communication Compression of Intermediate Tensors for Scalable Tensor-Parallel LLM Training. **HPDC 2026. (CCF-A)**
 

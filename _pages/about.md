@@ -72,14 +72,14 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
     * "CCL-D: A High-Precision Diagnostic System for Slow and Hang Anomalies in Large-Scale Model Training." (**Best Paper Nominee**)
     * "PRISM: An Efficient GPU-Based Lossy Compression Framework for Progressive Data Retrieval with Multi-Level Interpolation." (**Best Paper Nominee**)
 <details>
-<summary>More Details</summary>
-
-- 🎉 **Apr 2025**: Our paper "FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs" was accepted by **USENIX ATC 2025** (**CCF-A**).
-- 🎉 **Feb 2025**: Our paper "Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update" was accepted by **Future Generation Computing Systems** (**FGCS, CAS Tier 1 TOP**). Congratulations to my collaborator, **Qi Tian (2023 Master student)**!
-- 🎉 **Dec 2024**: Our paper "ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration" was accepted by **IEEE INFOCOM 2025** (**CCF-A**).
-- 🎉 **Nov 2024**: Interviewed by the School of Engineering, Westlake University, regarding our NLPCC 2024 Best Paper Award. [[Link]](https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml)
-- 🎉 **Nov 2024**: Our paper "Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification" won the **Best Paper Award (1/160)** at **NLPCC 2024** (**CCF-C**).
-
+<summary><b>More Details</b></summary>
+<ul>
+  <li>🎉 <b>Apr 2025</b>: Our paper "FlexPipe: Maximizing the Training Efficiency for Transformer-based models with Variable-Length Inputs" was accepted by <b>USENIX ATC 2025</b> (<b>CCF-A</b>).</li>
+  <li>🎉 <b>Feb 2025</b>: Our paper "Alleviating Straggler Impacts for Data Parallel Deep Learning with Hybrid Parameter Update" was accepted by <b>Future Generation Computing Systems</b> (<b>FGCS, CAS Tier 1 TOP</b>). Congratulations to my collaborator, <b>Qi Tian (2023 Master student)</b>!</li>
+  <li>🎉 <b>Dec 2024</b>: Our paper "ArrayPipe: Introducing Job-Array Pipeline Parallelism for High Throughput Model Exploration" was accepted by <b>IEEE INFOCOM 2025</b> (<b>CCF-A</b>).</li>
+  <li>🎉 <b>Nov 2024</b>: Interviewed by the School of Engineering, Westlake University, regarding our NLPCC 2024 Best Paper Award. <a href="https://www.westlake.edu.cn/news_events/westlakenews/UniversityNews/202411/t20241108_44358.shtml">[Link]</a></li>
+  <li>🎉 <b>Nov 2024</b>: Our paper "Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification" won the <b>Best Paper Award (1/160)</b> at <b>NLPCC 2024</b> (<b>CCF-C</b>).</li>
+</ul>
 </details>
  
 <span class='anchor' id='-lwzl'></span>

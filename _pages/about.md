@@ -131,7 +131,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 
 **{*} denotes corresponding author; {^} denotes equal contribution**
 
-**<u>Hairui Zhao</u>**, Hongliang Li*, Qi Tian, Haixiao Xu, Zizhong Chen, Guangming Tan, Dingwen Tao. Low-Latency DNN Model Exploration via Opportunistic Resource Sharing. TPDS 2026. (CCF-A)
+**<u>Hairui Zhao</u>**, Hongliang Li*, Qi Tian, Haixiao Xu, Zizhong Chen, Guangming Tan, Dingwen Tao. Low-Latency DNN Model Exploration via Opportunistic Resource Sharing. **TPDS 2026. (CCF-A)**
 
 Xingchen Liu, Daran Sun, Xingjian Tian, Man Liu, Haoran Kong, Zheng Wei, **<u>Hairui Zhao*</u>**, Guangming Tan, Dingwen Tao*. Evaluation and Optimization of Communication Compression for 10K-GPU LLM Training. **SC 2026. (CCF-A)**
 

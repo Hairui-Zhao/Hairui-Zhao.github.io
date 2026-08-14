@@ -58,7 +58,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
-- 🎉**August 2026**: Our paper "Low-Latency DNN Model Exploration via Opportunistic Resource Sharing" was accepted by **IEEE TPDS** (**CCF-A**).
+- 🎉**August 2026**: Our paper "Low-Latency DNN Model Exploration via Opportunistic Resource Sharing" was accepted by **IEEE TPDS 2026** (**CCF-A**).
 - 🎉**July 2026**: Our paper "Tools-CC-Bench: A Benchmark Suite for Collective Communication with Compression in HPC and AI Workloads" was accepted by **IEEE IISWC 2026** (**CCF-B**).
 - 🎉**July 2026**: Our paper "Evaluation and Optimization of Communication Compression for 10K-GPU LLM Training" was accepted by **IEEE SC 2026** (**CCF-A**). Congratulations to **Xingchen**!
 - 🎉**May 2026**: Our paper "KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving" was accepted by **ACM SIGCOMM 2026** (**CCF-A**). Congratulations to **Zedong**!

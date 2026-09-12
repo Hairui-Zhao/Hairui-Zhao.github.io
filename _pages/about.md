@@ -58,6 +58,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
+🎉**August 2026**: Our paper "Parallel DNN Training with Uniform Local Batch in Heterogeneous Environments" was accepted by **IEEE TPDS 2026 (CCF-A)**. Congratulations to **Qi Tian**!
 - 🎉**August 2026**: Our paper "Low-Latency DNN Model Exploration via Opportunistic Resource Sharing" was accepted by **IEEE TPDS 2026** (**CCF-A**).
 - 🎉**July 2026**: Our paper "Tools-CC-Bench: A Benchmark Suite for Collective Communication with Compression in HPC and AI Workloads" was accepted by **IEEE IISWC 2026** (**CCF-B**).
 - 🎉**July 2026**: Our paper "Evaluation and Optimization of Communication Compression for 10K-GPU LLM Training" was accepted by **IEEE SC 2026** (**CCF-A**). Congratulations to **Xingchen**!
@@ -131,6 +132,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 -->
 
 **{*} denotes corresponding author; {^} denotes equal contribution**
+Qi Tian, Hongliang Li*, **<u>Hairui Zhao*</u>**, Zichen Wang, Xingchen Liu, Zhewen Xu, Junmin Xiao, Guangming Tan, Dingwen Tao. Parallel DNN Training with Uniform Local Batch in Heterogeneous Environments. **IEEE TPDS 2026. (CCF-A)**
 
 **<u>Hairui Zhao</u>**, Hongliang Li*, Qi Tian, Haixiao Xu, Zizhong Chen, Guangming Tan, Dingwen Tao. Low-Latency DNN Model Exploration via Opportunistic Resource Sharing. **TPDS 2026. (CCF-A)**
 

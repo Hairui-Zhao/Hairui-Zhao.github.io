@@ -132,6 +132,7 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 -->
 
 **{*} denotes corresponding author; {^} denotes equal contribution**
+
 Qi Tian, Hongliang Li*, **<u>Hairui Zhao*</u>**, Zichen Wang, Xingchen Liu, Zhewen Xu, Junmin Xiao, Guangming Tan, Dingwen Tao. Parallel DNN Training with Uniform Local Batch in Heterogeneous Environments. **IEEE TPDS 2026. (CCF-A)**
 
 **<u>Hairui Zhao</u>**, Hongliang Li*, Qi Tian, Haixiao Xu, Zizhong Chen, Guangming Tan, Dingwen Tao. Low-Latency DNN Model Exploration via Opportunistic Resource Sharing. **TPDS 2026. (CCF-A)**

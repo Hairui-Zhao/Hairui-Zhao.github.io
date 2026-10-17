@@ -40,7 +40,7 @@ redirect_from:
 Hairui Zhao (Harry) is currently an **Assistant Professor/Postdoc (特别研究助理) at the [High Performance Computer Research Center](http://www.ict.cas.cn/jssgk/zzjg/kyxt/gxnjsyjzx/js/) (led by [Prof. Guangmin Tan](https://people.ucas.ac.cn/~tgm)), [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
 He is currently a member of the **Data Infrastructure Software Group**, led by **[Prof. Dingwen Tao](https://people.ucas.edu.cn/~tdw)**.
 He received my Ph.D. from the College of Computer Science and Technology at [**Jilin University (JLU)**](https://www.jlu.edu.cn/), supervised by [**Associate Prof. Hongliang Li**](https://ccst.jlu.edu.cn/info/1028/20013.htm). From September 2024, I was a **Joint Ph.D. Student** at the [**University of California, Riverside (UCR)**](https://www.ucr.edu/), supported by the **China Scholarship Council (CSC)** and supervised by [**Prof. Zizhong Chen**](https://www.cs.ucr.edu/~chen/).
-My research interests include: **Distributed Systems, Fault-Tolerant, High-Performance Computing (HPC), and Scheduling.**
+My research interests include: **Distributed Systems, Fault-Tolerant, High-Performance Computing (HPC), and Scheduling.** I received **ACM SIGHPC China Doctoral Dissertation Award**.
   
 
 
@@ -58,6 +58,8 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
+- 🎉**Oct 2026**: Three papers accepted by **NPC** (**CCF-C**). Congratulations to **Liyang, Zicong, Man Liu**! 
+- 🎉**Oct 2026**: I received **ACM SIGHPC China Doctoral Dissertation Award**.
 - 🎉**Sep 2026**: Our paper "Parallel DNN Training with Uniform Local Batch in Heterogeneous Environments" was accepted by **IEEE TPDS 2026 (CCF-A)**. Congratulations to **Qi Tian**!
 - 🎉**Aug 2026**: Our paper "Low-Latency DNN Model Exploration via Opportunistic Resource Sharing" was accepted by **IEEE TPDS 2026** (**CCF-A**).
 - 🎉**Jul 2026**: Our paper "Tools-CC-Bench: A Benchmark Suite for Collective Communication with Compression in HPC and AI Workloads" was accepted by **IEEE IISWC 2026** (**CCF-B**).
@@ -172,7 +174,8 @@ Jinwu Yang, Jiaan Wu, Zedong Liu, Xinyang Ma, **<u>Hairui Zhao</u>**, Yida Gu, Y
 
 # 🏅 Honors and Awards
 
-🏆 **Featured Award**
+🏆 **Research Award**
+- **ACM SIGHPC Doctoral Dissertation Award**
 - **Best Paper Nominee**, (**PPoPP 2026**)
 - **Best Paper Award (1/160)**, (**NLPCC 2024**)
 

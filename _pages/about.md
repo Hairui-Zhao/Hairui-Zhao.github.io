@@ -58,7 +58,8 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 <span class='anchor' id='-xshy'></span>
 
 # 📰 News
-- 🎉**Oct 2026**: Three papers accepted by **NPC** (**CCF-C**). Congratulations to **Liyang, Zicong, Man Liu**! 
+- 🎉**Oct 2026**: Our paper "LIBRA: Runtime Co-Tuning of Batch Size and Parallelism for Time-Efficient LLM Training" was accepted by **PPoPP 2027** (**CCF-A**). Congratulations to **Shengkai**!
+- 🎉**Oct 2026**: Three papers accepted by **NPC 2026** (**CCF-C**). Congratulations to **Liyang, Zicong, Man Liu**! 
 - 🎉**Oct 2026**: I received **ACM SIGHPC China Doctoral Dissertation Award**.
 - 🎉**Sep 2026**: Our paper "Parallel DNN Training with Uniform Local Batch in Heterogeneous Environments" was accepted by **IEEE TPDS 2026 (CCF-A)**. Congratulations to **Qi Tian**!
 - 🎉**Aug 2026**: Our paper "Low-Latency DNN Model Exploration via Opportunistic Resource Sharing" was accepted by **IEEE TPDS 2026** (**CCF-A**).
@@ -134,6 +135,8 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 -->
 
 **{*} denotes corresponding author; {^} denotes equal contribution**
+
+Shengkai Lyu, **<u>Hairui Zhao*</u>**, Daran Sun, Yida Gu, Xingchen Liu, YueYuan Zhou, Zheng Wei, Guangming Tan, Dingwen Tao*. LIBRA: Runtime Co-Tuning of Batch Size and Parallelism for Time-Efficient LLM Training. **PPoPP 2027. (CCF-A)**
 
 Qi Tian, Hongliang Li*, **<u>Hairui Zhao*</u>**, Zichen Wang, Xingchen Liu, Zhewen Xu, Junmin Xiao, Guangming Tan, Dingwen Tao. Parallel DNN Training with Uniform Local Batch in Heterogeneous Environments. **IEEE TPDS 2026. (CCF-A)**
 
